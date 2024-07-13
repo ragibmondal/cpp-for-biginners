@@ -1,3 +1,7 @@
+/***********************************
+ * author: Md Ragib Hasan
+ * date: 2024-07-13 12:02:30
+ ***********************************/
 #include <bits/stdc++.h>
 using namespace std;
 int factorial(int n){

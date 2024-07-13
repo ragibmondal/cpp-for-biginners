@@ -1,3 +1,7 @@
+/***********************************
+ * author: Md Ragib Hasan
+ * date: 2024-07-13 12:02:09
+ ***********************************/
 #include <iostream>
 using namespace std;
 int getMin(int numbers[],int size){

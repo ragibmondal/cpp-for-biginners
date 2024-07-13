@@ -1,3 +1,7 @@
+/***********************************
+ * author: Md Ragib Hasan
+ * date: 2024-07-13 12:01:34
+ ***********************************/
 #include<bits/stdc++.h>
 using namespace std;
 //function overloading
